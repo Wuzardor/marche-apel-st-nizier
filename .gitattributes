@@ -1,0 +1,3 @@
+# Fins de ligne LF sur tous les systèmes : les traces d'origine restent identiques octet pour octet
+* text=auto eol=lf
+*.png binary

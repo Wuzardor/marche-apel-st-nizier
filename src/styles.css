@@ -1,0 +1,225 @@
+/* Marche APEL — styles du site */
+:root {
+  --bg: #F6F4EF;
+  --surface: #FFFFFF;
+  --ink: #1D2528;
+  --muted: #5A6569;
+  --line: #E2DED5;
+  --you: #1A73E8;
+  --warn-bg: #FFF3DC;
+  --warn-ink: #7A4300;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgba(29, 37, 40, .05), 0 6px 18px rgba(29, 37, 40, .06);
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color-scheme: light;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 var(--font); }
+h1, h2, h3 { line-height: 1.15; letter-spacing: -.015em; }
+h2 { font-size: 1.2rem; margin: 0 0 12px; }
+a { color: inherit; }
+.wrap { max-width: 1120px; margin-inline: auto; padding-inline: 16px; }
+.visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.muted { color: var(--muted); }
+.footnote { margin: 8px 0 0; font-size: .8rem; color: var(--muted); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; }
+
+/* ---------- Boutons ---------- */
+.btn {
+  display: flex; align-items: center; justify-content: center; gap: 10px;
+  width: 100%; min-height: 52px; padding: 12px 18px;
+  border: 1.5px solid transparent; border-radius: 12px;
+  font: 700 1rem/1.2 var(--font); text-decoration: none; cursor: pointer;
+  transition: background-color .15s ease, border-color .15s ease, color .15s ease;
+}
+.btn svg { width: 20px; height: 20px; flex: none; }
+.btn-primary { background: var(--ink); color: #fff; }
+.btn-primary:hover { background: #000; }
+.btn-secondary { background: var(--surface); color: var(--ink); border-color: var(--line); }
+.btn-secondary:hover { border-color: var(--ink); }
+.btn-secondary[aria-pressed="true"] { border-color: var(--you); color: var(--you); }
+.btn:focus-visible, .chip:focus-visible, .circuit-card:focus-visible, .topnav a:focus-visible { outline: 3px solid var(--you); outline-offset: 2px; }
+
+/* ---------- Carte (commun) ---------- */
+.map { position: relative; z-index: 0; width: 100%; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: #E9E6DE; }
+.leaflet-container { font: 13px/1.4 var(--font); }
+.leaflet-popup-content a { font-weight: 700; }
+.map-tools a { display: grid !important; place-items: center; color: var(--ink); }
+.map-tools svg { width: 18px; height: 18px; }
+.map-tools a.is-active { color: var(--you); }
+.leaflet-tooltip.start-label { background: var(--ink); color: #fff; border: 0; border-radius: 8px; padding: 5px 9px; font-weight: 700; box-shadow: 0 2px 8px rgba(0, 0, 0, .25); }
+.leaflet-tooltip-top.start-label::before { border-top-color: var(--ink); }
+.km-marker span {
+  display: grid; place-items: center; width: 24px; height: 24px; border-radius: 50%;
+  background: #fff; border: 2.5px solid var(--c); color: var(--ink);
+  font: 800 11px/1 var(--font); box-shadow: 0 1px 4px rgba(0, 0, 0, .25);
+}
+.route-arrow span { display: block; width: 20px; height: 20px; transform: rotate(var(--r)); filter: drop-shadow(0 1px 2px rgba(0, 0, 0, .3)); }
+.route-arrow svg { display: block; width: 20px; height: 20px; }
+
+/* ---------- Accueil ---------- */
+.hero { padding-block: 32px 22px; }
+.eyebrow { margin: 0 0 8px; font-size: .78rem; font-weight: 700; letter-spacing: .09em; text-transform: uppercase; color: var(--muted); }
+.hero h1 { margin: 0 0 12px; max-width: 20ch; font-size: clamp(2rem, 7vw, 3.1rem); font-weight: 800; letter-spacing: -.03em; }
+.lead { margin: 0; max-width: 62ch; color: var(--muted); font-size: 1.05rem; }
+.event-meta { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 0; padding: 0; list-style: none; }
+.event-meta li { padding: 6px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: .9rem; font-weight: 600; }
+
+.home, .home-top { display: grid; grid-template-columns: minmax(0, 1fr); gap: 28px; }
+.home { padding-bottom: 32px; }
+.overview .map { height: 320px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+.chip {
+  flex: none; display: inline-flex; align-items: center; gap: 7px; min-height: 38px; padding: 6px 13px;
+  border: 1px solid var(--line); border-radius: 999px; background: var(--surface); color: var(--ink);
+  font: 700 .9rem/1 var(--font); cursor: pointer;
+}
+.chip i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+.chip[aria-pressed="true"] { border-color: var(--ink); background: var(--ink); color: #fff; }
+.chip[aria-pressed="true"] i { box-shadow: 0 0 0 2px #fff; }
+@media (max-width: 559px) {
+  /* Tous les circuits visibles d'un coup, sans défilement horizontal */
+  .chips { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .chip { justify-content: center; }
+}
+
+.circuit-list { display: grid; gap: 12px; margin: 0; padding: 0; list-style: none; }
+.circuit-card {
+  position: relative; display: block; padding: 14px 44px 14px 16px;
+  border: 1px solid var(--line); border-left: 6px solid var(--c); border-radius: var(--radius);
+  background: var(--surface); box-shadow: var(--shadow); color: inherit; text-decoration: none;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.circuit-card:hover { transform: translateY(-1px); box-shadow: 0 2px 4px rgba(29, 37, 40, .08), 0 12px 26px rgba(29, 37, 40, .09); }
+.cc-top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
+.cc-label { font-size: 1.45rem; font-weight: 800; letter-spacing: -.02em; }
+.cc-kind { font-size: .78rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.cc-sub { display: block; margin: 2px 0 0; font-size: .92rem; color: var(--muted); }
+.spark { display: block; width: 100%; height: 40px; margin: 10px 0 8px; color: var(--c); }
+.cc-stats { display: flex; flex-wrap: wrap; gap: 4px 16px; margin: 0; padding: 0; list-style: none; font-size: .92rem; color: var(--muted); }
+.cc-stats b { color: var(--ink); font-variant-numeric: tabular-nums; }
+.cc-go { position: absolute; top: 50%; right: 14px; transform: translateY(-50%); color: var(--muted); }
+.cc-go svg { display: block; width: 22px; height: 22px; }
+
+@media (min-width: 720px) and (max-width: 959px) {
+  .circuit-list { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 960px) {
+  /* La carte reste collée le long de la liste des circuits et s'arrête avant « Suivre le parcours » */
+  .home-top { grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); align-items: start; }
+  .overview { position: sticky; top: 16px; }
+  .overview .map { height: min(580px, calc(100vh - 100px)); }
+}
+
+/* ---------- Page circuit ---------- */
+.topbar { border-bottom: 1px solid var(--line); background: rgba(246, 244, 239, .94); }
+.topbar-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 12px; padding-block: 8px; }
+.back { display: inline-flex; align-items: center; gap: 4px; flex: none; min-height: 36px; font-weight: 700; text-decoration: none; }
+.back svg { width: 20px; height: 20px; }
+/* Mobile : les circuits sur leur propre ligne, en boutons de même largeur, tous visibles */
+.topnav { display: grid; flex-basis: 100%; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 6px; }
+.topnav a { padding: 7px 4px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; text-decoration: none; }
+.topnav a[aria-current="page"] { border-color: var(--c); background: var(--c); color: #fff; }
+
+.circuit-page { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; padding-block: 14px 32px; grid-template-areas: "title" "map" "actions" "details"; }
+.c-title { grid-area: title; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }
+.c-title h1 { margin: 0; font-size: clamp(1.6rem, 5.5vw, 2.2rem); font-weight: 800; letter-spacing: -.025em; }
+.c-title .dot { width: 14px; height: 14px; border-radius: 50%; background: var(--c); box-shadow: 0 0 0 3px #fff, 0 0 0 4px var(--line); }
+.pill { padding: 4px 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: .78rem; font-weight: 700; color: var(--muted); }
+.c-sub { flex-basis: 100%; margin: 0; color: var(--muted); }
+.map-wrap { grid-area: map; position: relative; }
+.map-wrap .map { height: 56vh; height: 56svh; min-height: 300px; }
+.c-actions { grid-area: actions; display: grid; gap: 10px; }
+.c-details { grid-area: details; display: grid; gap: 14px; min-width: 0; }
+
+.stats-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; margin: 0; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--line); }
+.stats-grid div { padding: 10px 12px; background: var(--surface); }
+.stats-grid dt { font-size: .72rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+.stats-grid dd { margin: 2px 0 0; font-size: 1.05rem; font-weight: 800; font-variant-numeric: tabular-nums; white-space: nowrap; }
+
+.profile h2 { margin-bottom: 8px; }
+.profile-box { min-height: 160px; }
+.profile-box svg { display: block; width: 100%; touch-action: pan-y; -webkit-user-select: none; user-select: none; }
+.profile-box text { font: 11px var(--font); fill: var(--muted); font-variant-numeric: tabular-nums; }
+.profile-box .pg { stroke: var(--line); stroke-width: 1; }
+.profile-box .hover line { stroke: var(--ink); stroke-width: 1; stroke-dasharray: 3 3; }
+.profile-box .hover circle { fill: var(--c); stroke: #fff; stroke-width: 2; }
+.profile-box .hover rect { fill: var(--ink); }
+.profile-box .hover text { fill: #fff; font-weight: 700; }
+.profile-box .you line { stroke: var(--you); stroke-width: 2; }
+.profile-box .you circle { fill: var(--you); stroke: #fff; stroke-width: 2; }
+
+.guide {
+  position: absolute; left: 10px; right: 10px; bottom: 26px; z-index: 1000;
+  display: flex; align-items: center; gap: 8px; padding: 10px 6px 10px 14px;
+  border-radius: 12px; background: rgba(255, 255, 255, .97); box-shadow: 0 6px 22px rgba(0, 0, 0, .2);
+}
+.guide-text { flex: 1; min-width: 0; }
+.guide-main { font-size: 1rem; }
+.guide-sub { font-size: .82rem; color: var(--muted); }
+.guide[data-state="off"], .guide[data-state="error"] { background: var(--warn-bg); color: var(--warn-ink); }
+.guide[data-state="off"] .guide-sub, .guide[data-state="error"] .guide-sub { color: var(--warn-ink); }
+.guide-close { flex: none; padding: 6px 10px; border: 0; background: transparent; color: inherit; font-size: 1.5rem; line-height: 1; cursor: pointer; }
+
+@media (min-width: 520px) and (max-width: 899px) {
+  .c-actions { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 900px) {
+  .topbar { position: sticky; top: 0; z-index: 1100; -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); }
+  .topnav { flex-basis: auto; grid-auto-columns: auto; }
+  .topnav a { padding-inline: 12px; }
+  .circuit-page {
+    grid-template-columns: minmax(0, 1.5fr) minmax(340px, 1fr); grid-template-rows: auto auto 1fr;
+    grid-template-areas: "map title" "map actions" "map details"; column-gap: 24px; align-items: start;
+  }
+  .map-wrap { position: sticky; top: 66px; }
+  .map-wrap .map { height: calc(100vh - 82px); height: calc(100svh - 82px); }
+}
+
+/* ---------- Aide GPX ---------- */
+.howto details { padding: 10px 0; border-top: 1px solid var(--line); }
+.howto summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 34px; font-weight: 700; list-style: none; cursor: pointer; }
+.howto summary::-webkit-details-marker { display: none; }
+.howto summary::after { content: "+"; flex: none; font-size: 1.35rem; font-weight: 400; color: var(--muted); }
+.howto details[open] summary::after { content: "−"; }
+.howto ol, .howto ul { margin: 8px 0 0; padding-left: 1.25rem; }
+.howto li + li { margin-top: 4px; }
+.howto p { margin: 8px 0 0; }
+.howto .note { font-size: .88rem; color: var(--muted); }
+
+/* ---------- Pied de page ---------- */
+.site-footer { padding-block: 22px 40px; border-top: 1px solid var(--line); font-size: .85rem; color: var(--muted); }
+.site-footer p { margin: 4px 0; }
+
+/* ---------- Affiche imprimable ---------- */
+.poster-page { background: #fff; }
+.poster { max-width: 190mm; margin: 0 auto; padding: 24px 16px; }
+.poster-head { padding-bottom: 14px; border-bottom: 3px solid var(--ink); text-align: center; }
+.poster-head h1 { margin: 4px 0 8px; font-size: clamp(1.8rem, 6vw, 2.7rem); font-weight: 800; letter-spacing: -.03em; }
+.poster-meta { margin: 0; font-size: 1.05rem; font-weight: 700; }
+.poster-main { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px 28px; padding-block: 22px; }
+.qr svg { display: block; width: 100%; height: auto; }
+.qr-lg { width: 58mm; max-width: 60vw; padding: 8px; border: 2px solid var(--ink); border-radius: 12px; }
+.poster-cta { margin: 0 0 6px; font-size: 1.5rem; font-weight: 800; }
+.poster-main ul { margin: 0 0 10px; padding-left: 1.1rem; }
+.poster-url { margin: 0; font: 700 1rem/1.3 ui-monospace, Menlo, Consolas, monospace; word-break: break-all; }
+.poster-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+.poster-item { flex: 0 0 calc((100% - 20px) / 3); padding: 10px; border: 1.5px solid var(--line); border-top: 7px solid var(--c); border-radius: 10px; text-align: center; break-inside: avoid; }
+.poster-item .qr { width: 32mm; max-width: 100%; margin: 0 auto 6px; }
+.pi-label { margin: 0; font-size: 1.15rem; font-weight: 800; }
+.pi-stats { margin: 0; font-size: .85rem; color: var(--muted); }
+.print-bar { position: sticky; bottom: 0; display: flex; justify-content: center; padding: 12px 16px; border-top: 1px solid var(--line); background: rgba(255, 255, 255, .95); }
+.print-bar .btn { width: auto; }
+@media (max-width: 560px) {
+  .poster-item { flex-basis: calc((100% - 10px) / 2); }
+}
+@page { size: A4 portrait; margin: 10mm; }
+@media print {
+  .no-print { display: none !important; }
+  body { background: #fff; }
+  .poster { max-width: none; padding: 0; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}

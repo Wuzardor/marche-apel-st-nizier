@@ -1,0 +1,19 @@
+{
+  "name": "marche-web",
+  "version": "1.0.0",
+  "description": "Site des circuits de la marche APEL de Saint-Nizier-sous-Charlieu : cartes, suivi de position et GPX",
+  "homepage": "https://marche-apel-st-nizier.vercel.app",
+  "private": true,
+  "scripts": {
+    "data": "node scripts/prepare-data.mjs",
+    "build": "node build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "python tests/check_site.py"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "leaflet": "^1.9.4",
+    "qrcode": "^1.5.4"
+  }
+}

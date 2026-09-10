@@ -1,0 +1,72 @@
+{
+  "title": "Suivre le parcours",
+  "items": [
+    {
+      "title": "Sur cette page, sans rien installer",
+      "open": true,
+      "steps": [
+        "Ouvrez le circuit choisi et appuyez sur **Me situer sur le parcours**, puis autorisez la localisation.",
+        "Votre position s'affiche en bleu sur la carte, avec les kilomètres parcourus et restants.",
+        "Si vous vous écartez du tracé, un message vous indique la distance pour le rejoindre."
+      ],
+      "note": "Quand le téléphone se met en veille, la position se met à jour dès que vous rallumez l'écran. Pensez à partir avec une batterie chargée."
+    },
+    {
+      "title": "iPhone : retrouver le fichier GPX",
+      "steps": [
+        "Appuyez sur **Télécharger le GPX**, puis confirmez le téléchargement.",
+        "Ouvrez l'app **Fichiers**, puis le dossier **Téléchargements**.",
+        "Appuyez longuement sur le fichier, puis **Partager** et choisissez votre application (Garmin Connect, COROS, Komoot…)."
+      ]
+    },
+    {
+      "title": "Android : retrouver le fichier GPX",
+      "steps": [
+        "Appuyez sur **Télécharger le GPX**.",
+        "Touchez la notification de téléchargement, ou dans Chrome : **⋮** puis **Téléchargements**.",
+        "Touchez le fichier, puis **Ouvrir avec** et choisissez votre application."
+      ],
+      "note": "Sur certains Samsung ou Xiaomi, le fichier se trouve dans l'app « Mes fichiers », dossier Téléchargements."
+    },
+    {
+      "title": "Montre ou compteur Garmin",
+      "steps": [
+        "Ouvrez le fichier GPX avec l'application **Garmin Connect** (Ouvrir avec, ou Partager sur iPhone).",
+        "Vérifiez l'aperçu du parcours, puis enregistrez-le.",
+        "Si besoin, touchez **Envoyer vers l'appareil**, puis synchronisez votre montre ou votre Edge."
+      ],
+      "note": "Depuis un ordinateur : connect.garmin.com, rubrique Entraînement et planification, puis Parcours et Importer."
+    },
+    {
+      "title": "Montres COROS, Suunto, Polar",
+      "steps": [
+        "**COROS** : ouvrez le GPX avec l'app COROS et enregistrez. Sur la montre : Navigation, puis choisissez le parcours.",
+        "**Suunto** : dans l'app Suunto, ouvrez la carte, touchez **+** puis importez un itinéraire (.gpx).",
+        "**Polar** : l'import se fait sur le site flow.polar.com (Favoris, puis Importer un itinéraire). Synchronisez ensuite la montre."
+      ]
+    },
+    {
+      "title": "Compteurs vélo Wahoo, Bryton, Hammerhead",
+      "steps": [
+        "**Wahoo ELEMNT** : ouvrez le GPX avec l'app ELEMNT (Partager ou Ouvrir avec). L'itinéraire rejoint vos parcours.",
+        "**Bryton** : ouvrez le GPX avec l'app Bryton Active, puis envoyez l'itinéraire vers le compteur.",
+        "**Hammerhead Karoo** : importez plutôt le GPX depuis un ordinateur sur dashboard.hammerhead.io (Routes, puis Import)."
+      ]
+    },
+    {
+      "title": "Apple Watch ou Galaxy Watch",
+      "steps": [
+        "**Apple Watch** : les apps d'Apple n'importent pas les GPX. Passez par une app comme WorkOutDoors : sur l'iPhone, partagez le GPX vers WorkOutDoors, puis envoyez-le sur la montre.",
+        "**Galaxy Watch5 Pro ou Watch Ultra** : Samsung Health, Exercice, Sélectionner un parcours, puis Importer des fichiers GPX."
+      ]
+    },
+    {
+      "title": "Applications GPS sur téléphone",
+      "steps": [
+        "**Organic Maps** ou **OsmAnd** : gratuites et utilisables sans réseau. Ouvrez le GPX avec l'application pour afficher la trace.",
+        "**Komoot** ou **Visorando** (compte gratuit) : importez le fichier GPX dans l'application."
+      ],
+      "note": "Google Maps n'affiche pas les fichiers GPX, et Strava réserve l'import d'itinéraires aux abonnés."
+    }
+  ]
+}

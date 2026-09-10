@@ -1,0 +1,8 @@
+node_modules/
+# Site généré par `npm run build` (publié sur Vercel depuis ce dossier)
+public/
+# Cache des altitudes IGN, régénérable par `npm run data`
+cache/
+tests/screens/
+.vercel/
+.env*

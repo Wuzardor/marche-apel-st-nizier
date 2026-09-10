@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="">
+  <trk>
+    <name>Circuit 18 km</name>
+    <desc/>
+    <trkseg>
+      <trkpt lat="46.15363" lon="4.1206"/>
+      <trkpt lat="46.15356" lon="4.12061"/>
+      <trkpt lat="46.15352" lon="4.12059"/>
+      <trkpt lat="46.1535" lon="4.12054"/>
+      <trkpt lat="46.15343" lon="4.11988"/>
+      <trkpt lat="46.15336" lon="4.11979"/>
+      <trkpt lat="46.15328" lon="4.11974"/>
+      <trkpt lat="46.15323" lon="4.11974"/>
+      <trkpt lat="46.15274" lon="4.11956"/>
+      <trkpt lat="46.15269" lon="4.11953"/>
+      <trkpt lat="46.15266" lon="4.11948"/>
+      <trkpt lat="46.15253" lon="4.11949"/>
+      <trkpt lat="46.15217" lon="4.11931"/>
+      <trkpt lat="46.15215" lon="4.11939"/>
+      <trkpt lat="46.15217" lon="4.11931"/>
+      <trkpt lat="46.15224" lon="4.11935"/>
+      <trkpt lat="46.15199" lon="4.1204"/>
+      <trkpt lat="46.15179" lon="4.12171"/>
+      <trkpt lat="46.15138" lon="4.12467"/>
+      <trkpt lat="46.15139" lon="4.12482"/>
+      <trkpt lat="46.15144" lon="4.12498"/>
+      <trkpt lat="46.15133" lon="4.1252"/>
+      <trkpt lat="46.15129" lon="4.12532"/>
+      <trkpt lat="46.15068" lon="4.12966"/>
+      <trkpt lat="46.15046" lon="4.13134"/>
+      <trkpt lat="46.15042" lon="4.13184"/>
+      <trkpt lat="46.15041" lon="4.13246"/>
+      <trkpt lat="46.15045" lon="4.13319"/>
+      <trkpt lat="46.15051" lon="4.13373"/>
+      <trkpt lat="46.15201" lon="4.14118"/>
+      <trkpt lat="46.15243" lon="4.14264"/>
+      <trkpt lat="46.15304" lon="4.14452"/>
+      <trkpt lat="46.15331" lon="4.14544"/>
+      <trkpt lat="46.1537" lon="4.14655"/>
+      <trkpt lat="46.15403" lon="4.14758"/>
+      <trkpt lat="46.1542" lon="4.14819"/>
+      <trkpt lat="46.15431" lon="4.14866"/>
+      <trkpt lat="46.15487" lon="4.15147"/>
+      <trkpt lat="46.15481" lon="4.15159"/>
+      <trkpt lat="46.15492" lon="4.15167"/>
+      <trkpt lat="46.15503" lon="4.15179"/>
+      <trkpt lat="46.15513" lon="4.15195"/>
+      <trkpt lat="46.1552" lon="4.15209"/>
+      <trkpt lat="46.15522" lon="4.15225"/>
+      <trkpt lat="46.1555" lon="4.15221"/>
+      <trkpt lat="46.15588" lon="4.15208"/>
+      <trkpt lat="46.15647" lon="4.1517"/>
+      <trkpt lat="46.15648" lon="4.15164"/>
+      <trkpt lat="46.15644" lon="4.15149"/>
+      <trkpt lat="46.15642" lon="4.15125"/>
+      <trkpt lat="46.15644" lon="4.15096"/>
+      <trkpt lat="46.1565" lon="4.15081"/>
+      <trkpt lat="46.15648" lon="4.15076"/>
+      <trkpt lat="46.15648" lon="4.15063"/>
+      <trkpt lat="46.15678" lon="4.14986"/>
+      <trkpt lat="46.15689" lon="4.14966"/>
+      <trkpt lat="46.15706" lon="4.14941"/>
+      <trkpt lat="46.15728" lon="4.14913"/>
+      <trkpt lat="46.15747" lon="4.14893"/>
+      <trkpt lat="46.15767" lon="4.14863"/>
+      <trkpt lat="46.15805" lon="4.1478"/>
+      <trkpt lat="46.15818" lon="4.14755"/>
+      <trkpt lat="46.15826" lon="4.14743"/>
+      <trkpt lat="46.15849" lon="4.14715"/>
+      <trkpt lat="46.15924" lon="4.14659"/>
+      <trkpt lat="46.15935" lon="4.14653"/>
+      <trkpt lat="46.15957" lon="4.14649"/>
+      <trkpt lat="46.1598" lon="4.14641"/>
+      <trkpt lat="46.15997" lon="4.14639"/>
+      <trkpt lat="46.16022" lon="4.14617"/>
+      <trkpt lat="46.16026" lon="4.14617"/>
+      <trkpt lat="46.16029" lon="4.14622"/>
+      <trkpt lat="46.16041" lon="4.14701"/>
+      <trkpt lat="46.16048" lon="4.14725"/>
+      <trkpt lat="46.16065" lon="4.14805"/>
+      <trkpt lat="46.16045" lon="4.14841"/>
+      <trkpt lat="46.16024" lon="4.14873"/>
+      <trkpt lat="46.15987" lon="4.14914"/>
+      <trkpt lat="46.15969" lon="4.14931"/>
+      <trkpt lat="46.15971" lon="4.14989"/>
+      <trkpt lat="46.15964" lon="4.15046"/>
+      <trkpt lat="46.15956" lon="4.15136"/>
+      <trkpt lat="46.15956" lon="4.15148"/>
+      <trkpt lat="46.15958" lon="4.15158"/>
+      <trkpt lat="46.15951" lon="4.15198"/>
+      <trkpt lat="46.1594" lon="4.15283"/>
+      <trkpt lat="46.15933" lon="4.1541"/>
+      <trkpt lat="46.15936" lon="4.15424"/>
+      <trkpt lat="46.15944" lon="4.15437"/>
+      <trkpt lat="46.15971" lon="4.15463"/>
+      <trkpt lat="46.15977" lon="4.15477"/>
+      <trkpt lat="46.15979" lon="4.15501"/>
+      <trkpt lat="46.15976" lon="4.15554"/>
+      <trkpt lat="46.15954" lon="4.15757"/>
+      <trkpt lat="46.15951" lon="4.15806"/>
+      <trkpt lat="46.15948" lon="4.1583"/>
+      <trkpt lat="46.15926" lon="4.15896"/>
+      <trkpt lat="46.15922" lon="4.15924"/>
+      <trkpt lat="46.15921" lon="4.15958"/>
+      <trkpt lat="46.1595" lon="4.15876"/>
+      <trkpt lat="46.16024" lon="4.15697"/>
+      <trkpt lat="46.16036" lon="4.15663"/>
+      <trkpt lat="46.16046" lon="4.15624"/>
+      <trkpt lat="46.16058" lon="4.15567"/>
+      <trkpt lat="46.16065" lon="4.15546"/>
+      <trkpt lat="46.16075" lon="4.15524"/>
+      <trkpt lat="46.16115" lon="4.15452"/>
+      <trkpt lat="46.16146" lon="4.15414"/>
+      <trkpt lat="46.16194" lon="4.1536"/>
+      <trkpt lat="46.16221" lon="4.15324"/>
+      <trkpt lat="46.16244" lon="4.15283"/>
+      <trkpt lat="46.16272" lon="4.15224"/>
+      <trkpt lat="46.16289" lon="4.15183"/>
+      <trkpt lat="46.16313" lon="4.15144"/>
+      <trkpt lat="46.16403" lon="4.1501"/>
+      <trkpt lat="46.16443" lon="4.14943"/>
+      <trkpt lat="46.16492" lon="4.14879"/>
+      <trkpt lat="46.1657" lon="4.14787"/>
+      <trkpt lat="46.16597" lon="4.14745"/>
+      <trkpt lat="46.16598" lon="4.14737"/>
+      <trkpt lat="46.16546" lon="4.14777"/>
+      <trkpt lat="46.16468" lon="4.14847"/>
+      <trkpt lat="46.16436" lon="4.14878"/>
+      <trkpt lat="46.16327" lon="4.14955"/>
+      <trkpt lat="46.16295" lon="4.1497"/>
+      <trkpt lat="46.16185" lon="4.15008"/>
+      <trkpt lat="46.16177" lon="4.15008"/>
+      <trkpt lat="46.16156" lon="4.14995"/>
+      <trkpt lat="46.16092" lon="4.14946"/>
+      <trkpt lat="46.16141" lon="4.1487"/>
+      <trkpt lat="46.16158" lon="4.14834"/>
+      <trkpt lat="46.16165" lon="4.14785"/>
+      <trkpt lat="46.16177" lon="4.14732"/>
+      <trkpt lat="46.16204" lon="4.14662"/>
+      <trkpt lat="46.16242" lon="4.14587"/>
+      <trkpt lat="46.16284" lon="4.1452"/>
+      <trkpt lat="46.16317" lon="4.14448"/>
+      <trkpt lat="46.16353" lon="4.14384"/>
+      <trkpt lat="46.16361" lon="4.14363"/>
+      <trkpt lat="46.16381" lon="4.1427"/>
+      <trkpt lat="46.16384" lon="4.14234"/>
+      <trkpt lat="46.16391" lon="4.1421"/>
+      <trkpt lat="46.16411" lon="4.14156"/>
+      <trkpt lat="46.16413" lon="4.14107"/>
+      <trkpt lat="46.16408" lon="4.14074"/>
+      <trkpt lat="46.16396" lon="4.14031"/>
+      <trkpt lat="46.16388" lon="4.14015"/>
+      <trkpt lat="46.16371" lon="4.13991"/>
+      <trkpt lat="46.16364" lon="4.13966"/>
+      <trkpt lat="46.1637" lon="4.13887"/>
+      <trkpt lat="46.16375" lon="4.13852"/>
+      <trkpt lat="46.16382" lon="4.1383"/>
+      <trkpt lat="46.16402" lon="4.13779"/>
+      <trkpt lat="46.16418" lon="4.13726"/>
+      <trkpt lat="46.16447" lon="4.13641"/>
+      <trkpt lat="46.16449" lon="4.13627"/>
+      <trkpt lat="46.16489" lon="4.13658"/>
+      <trkpt lat="46.16505" lon="4.13663"/>
+      <trkpt lat="46.16523" lon="4.13664"/>
+      <trkpt lat="46.16556" lon="4.13661"/>
+      <trkpt lat="46.16633" lon="4.13647"/>
+      <trkpt lat="46.16644" lon="4.13642"/>
+      <trkpt lat="46.16654" lon="4.13634"/>
+      <trkpt lat="46.16688" lon="4.13592"/>
+      <trkpt lat="46.16695" lon="4.13588"/>
+      <trkpt lat="46.167" lon="4.13587"/>
+      <trkpt lat="46.16708" lon="4.13592"/>
+      <trkpt lat="46.16713" lon="4.13598"/>
+      <trkpt lat="46.16716" lon="4.13609"/>
+      <trkpt lat="46.16715" lon="4.13626"/>
+      <trkpt lat="46.16713" lon="4.13638"/>
+      <trkpt lat="46.16707" lon="4.13652"/>
+      <trkpt lat="46.16697" lon="4.13685"/>
+      <trkpt lat="46.16697" lon="4.13706"/>
+      <trkpt lat="46.16698" lon="4.1371"/>
+      <trkpt lat="46.16705" lon="4.1372"/>
+      <trkpt lat="46.16717" lon="4.13731"/>
+      <trkpt lat="46.16733" lon="4.13763"/>
+      <trkpt lat="46.16743" lon="4.13789"/>
+      <trkpt lat="46.16758" lon="4.1384"/>
+      <trkpt lat="46.16762" lon="4.13895"/>
+      <trkpt lat="46.1677" lon="4.13924"/>
+      <trkpt lat="46.16799" lon="4.13985"/>
+      <trkpt lat="46.16815" lon="4.14013"/>
+      <trkpt lat="46.16844" lon="4.14041"/>
+      <trkpt lat="46.16863" lon="4.14065"/>
+      <trkpt lat="46.16888" lon="4.1409"/>
+      <trkpt lat="46.16909" lon="4.14102"/>
+      <trkpt lat="46.16978" lon="4.14133"/>
+      <trkpt lat="46.16999" lon="4.1414"/>
+      <trkpt lat="46.17001" lon="4.14138"/>
+      <trkpt lat="46.17007" lon="4.14146"/>
+      <trkpt lat="46.17065" lon="4.14168"/>
+      <trkpt lat="46.17068" lon="4.14174"/>
+      <trkpt lat="46.17069" lon="4.14191"/>
+      <trkpt lat="46.17061" lon="4.14264"/>
+      <trkpt lat="46.17057" lon="4.1432"/>
+      <trkpt lat="46.17057" lon="4.14339"/>
+      <trkpt lat="46.17062" lon="4.14364"/>
+      <trkpt lat="46.1708" lon="4.14429"/>
+      <trkpt lat="46.171" lon="4.14494"/>
+      <trkpt lat="46.17112" lon="4.1454"/>
+      <trkpt lat="46.17122" lon="4.14588"/>
+      <trkpt lat="46.1713" lon="4.14598"/>
+      <trkpt lat="46.17136" lon="4.14614"/>
+      <trkpt lat="46.17144" lon="4.14638"/>
+      <trkpt lat="46.17158" lon="4.14698"/>
+      <trkpt lat="46.17164" lon="4.1471"/>
+      <trkpt lat="46.17209" lon="4.147"/>
+      <trkpt lat="46.17223" lon="4.14689"/>
+      <trkpt lat="46.1725" lon="4.14657"/>
+      <trkpt lat="46.17264" lon="4.14632"/>
+      <trkpt lat="46.17278" lon="4.14611"/>
+      <trkpt lat="46.17354" lon="4.14548"/>
+      <trkpt lat="46.17379" lon="4.14508"/>
+      <trkpt lat="46.17384" lon="4.14501"/>
+      <trkpt lat="46.17389" lon="4.14497"/>
+      <trkpt lat="46.17411" lon="4.14491"/>
+      <trkpt lat="46.17422" lon="4.1449"/>
+      <trkpt lat="46.17478" lon="4.14464"/>
+      <trkpt lat="46.17493" lon="4.14459"/>
+      <trkpt lat="46.17508" lon="4.14457"/>
+      <trkpt lat="46.17529" lon="4.14459"/>
+      <trkpt lat="46.17543" lon="4.14464"/>
+      <trkpt lat="46.17582" lon="4.14488"/>
+      <trkpt lat="46.1759" lon="4.14467"/>
+      <trkpt lat="46.17593" lon="4.14454"/>
+      <trkpt lat="46.17619" lon="4.14215"/>
+      <trkpt lat="46.17644" lon="4.1401"/>
+      <trkpt lat="46.17663" lon="4.13901"/>
+      <trkpt lat="46.17675" lon="4.13848"/>
+      <trkpt lat="46.17685" lon="4.13817"/>
+      <trkpt lat="46.17709" lon="4.13823"/>
+      <trkpt lat="46.1773" lon="4.13826"/>
+      <trkpt lat="46.17739" lon="4.13822"/>
+      <trkpt lat="46.17755" lon="4.13807"/>
+      <trkpt lat="46.17744" lon="4.1374"/>
+      <trkpt lat="46.17806" lon="4.13701"/>
+      <trkpt lat="46.17864" lon="4.1365"/>
+      <trkpt lat="46.1788" lon="4.13632"/>
+      <trkpt lat="46.17932" lon="4.13556"/>
+      <trkpt lat="46.1794" lon="4.13541"/>
+      <trkpt lat="46.1795" lon="4.13516"/>
+      <trkpt lat="46.17977" lon="4.13468"/>
+      <trkpt lat="46.18004" lon="4.13437"/>
+      <trkpt lat="46.18058" lon="4.13329"/>
+      <trkpt lat="46.18058" lon="4.13334"/>
+      <trkpt lat="46.18068" lon="4.13342"/>
+      <trkpt lat="46.181" lon="4.1336"/>
+      <trkpt lat="46.18129" lon="4.13399"/>
+      <trkpt lat="46.18141" lon="4.1342"/>
+      <trkpt lat="46.1818" lon="4.13468"/>
+      <trkpt lat="46.18194" lon="4.1348"/>
+      <trkpt lat="46.18203" lon="4.13465"/>
+      <trkpt lat="46.18222" lon="4.13443"/>
+      <trkpt lat="46.18239" lon="4.13415"/>
+      <trkpt lat="46.18252" lon="4.13389"/>
+      <trkpt lat="46.18275" lon="4.13333"/>
+      <trkpt lat="46.18289" lon="4.13303"/>
+      <trkpt lat="46.18314" lon="4.1326"/>
+      <trkpt lat="46.1832" lon="4.13245"/>
+      <trkpt lat="46.18325" lon="4.13223"/>
+      <trkpt lat="46.18338" lon="4.13188"/>
+      <trkpt lat="46.18358" lon="4.13167"/>
+      <trkpt lat="46.18368" lon="4.13151"/>
+      <trkpt lat="46.18388" lon="4.13112"/>
+      <trkpt lat="46.18396" lon="4.13102"/>
+      <trkpt lat="46.18408" lon="4.13094"/>
+      <trkpt lat="46.18465" lon="4.13075"/>
+      <trkpt lat="46.18482" lon="4.13064"/>
+      <trkpt lat="46.1853" lon="4.13014"/>
+      <trkpt lat="46.18597" lon="4.12934"/>
+      <trkpt lat="46.18604" lon="4.12934"/>
+      <trkpt lat="46.18624" lon="4.12908"/>
+      <trkpt lat="46.18669" lon="4.12885"/>
+      <trkpt lat="46.18678" lon="4.12874"/>
+      <trkpt lat="46.18684" lon="4.1286"/>
+      <trkpt lat="46.18699" lon="4.12804"/>
+      <trkpt lat="46.1873" lon="4.12742"/>
+      <trkpt lat="46.18745" lon="4.12698"/>
+      <trkpt lat="46.18765" lon="4.12657"/>
+      <trkpt lat="46.1879" lon="4.12615"/>
+      <trkpt lat="46.18803" lon="4.12599"/>
+      <trkpt lat="46.18849" lon="4.12556"/>
+      <trkpt lat="46.18823" lon="4.12544"/>
+      <trkpt lat="46.18786" lon="4.1254"/>
+      <trkpt lat="46.18748" lon="4.12532"/>
+      <trkpt lat="46.1872" lon="4.12524"/>
+      <trkpt lat="46.18688" lon="4.12519"/>
+      <trkpt lat="46.18661" lon="4.12527"/>
+      <trkpt lat="46.18623" lon="4.12541"/>
+      <trkpt lat="46.18588" lon="4.12549"/>
+      <trkpt lat="46.18572" lon="4.1255"/>
+      <trkpt lat="46.18559" lon="4.12549"/>
+      <trkpt lat="46.18543" lon="4.12544"/>
+      <trkpt lat="46.18508" lon="4.12529"/>
+      <trkpt lat="46.18462" lon="4.12506"/>
+      <trkpt lat="46.18422" lon="4.12479"/>
+      <trkpt lat="46.18368" lon="4.12415"/>
+      <trkpt lat="46.18334" lon="4.12385"/>
+      <trkpt lat="46.18328" lon="4.12378"/>
+      <trkpt lat="46.18301" lon="4.12357"/>
+      <trkpt lat="46.18282" lon="4.12348"/>
+      <trkpt lat="46.18245" lon="4.1234"/>
+      <trkpt lat="46.18223" lon="4.12325"/>
+      <trkpt lat="46.18196" lon="4.12313"/>
+      <trkpt lat="46.18171" lon="4.12298"/>
+      <trkpt lat="46.1812" lon="4.12256"/>
+      <trkpt lat="46.18096" lon="4.12245"/>
+      <trkpt lat="46.18043" lon="4.12228"/>
+      <trkpt lat="46.1798" lon="4.12216"/>
+      <trkpt lat="46.17968" lon="4.12212"/>
+      <trkpt lat="46.17957" lon="4.12198"/>
+      <trkpt lat="46.17954" lon="4.12184"/>
+      <trkpt lat="46.17952" lon="4.12162"/>
+      <trkpt lat="46.17942" lon="4.12127"/>
+      <trkpt lat="46.17932" lon="4.12105"/>
+      <trkpt lat="46.17922" lon="4.12092"/>
+      <trkpt lat="46.17913" lon="4.12084"/>
+      <trkpt lat="46.17893" lon="4.12073"/>
+      <trkpt lat="46.17834" lon="4.12052"/>
+      <trkpt lat="46.17778" lon="4.12028"/>
+      <trkpt lat="46.17754" lon="4.1202"/>
+      <trkpt lat="46.17737" lon="4.12018"/>
+      <trkpt lat="46.17717" lon="4.12012"/>
+      <trkpt lat="46.17707" lon="4.11975"/>
+      <trkpt lat="46.17704" lon="4.11952"/>
+      <trkpt lat="46.17704" lon="4.11885"/>
+      <trkpt lat="46.177" lon="4.11853"/>
+      <trkpt lat="46.17672" lon="4.11768"/>
+      <trkpt lat="46.17666" lon="4.11745"/>
+      <trkpt lat="46.17662" lon="4.11712"/>
+      <trkpt lat="46.17655" lon="4.11435"/>
+      <trkpt lat="46.17541" lon="4.11429"/>
+      <trkpt lat="46.17504" lon="4.11437"/>
+      <trkpt lat="46.17464" lon="4.11452"/>
+      <trkpt lat="46.17453" lon="4.11454"/>
+      <trkpt lat="46.17407" lon="4.11442"/>
+      <trkpt lat="46.17355" lon="4.11447"/>
+      <trkpt lat="46.17323" lon="4.11454"/>
+      <trkpt lat="46.17306" lon="4.11456"/>
+      <trkpt lat="46.17263" lon="4.11457"/>
+      <trkpt lat="46.17137" lon="4.11488"/>
+      <trkpt lat="46.17098" lon="4.11496"/>
+      <trkpt lat="46.17066" lon="4.11512"/>
+      <trkpt lat="46.17056" lon="4.11534"/>
+      <trkpt lat="46.17051" lon="4.11536"/>
+      <trkpt lat="46.17045" lon="4.11535"/>
+      <trkpt lat="46.17041" lon="4.1153"/>
+      <trkpt lat="46.17035" lon="4.1151"/>
+      <trkpt lat="46.1697" lon="4.11429"/>
+      <trkpt lat="46.16945" lon="4.11395"/>
+      <trkpt lat="46.16908" lon="4.11339"/>
+      <trkpt lat="46.16893" lon="4.11324"/>
+      <trkpt lat="46.16837" lon="4.11276"/>
+      <trkpt lat="46.1684" lon="4.11286"/>
+      <trkpt lat="46.16852" lon="4.11377"/>
+      <trkpt lat="46.16848" lon="4.11418"/>
+      <trkpt lat="46.16847" lon="4.1144"/>
+      <trkpt lat="46.16848" lon="4.1146"/>
+      <trkpt lat="46.16861" lon="4.11537"/>
+      <trkpt lat="46.16888" lon="4.11627"/>
+      <trkpt lat="46.16893" lon="4.11649"/>
+      <trkpt lat="46.16895" lon="4.11667"/>
+      <trkpt lat="46.16894" lon="4.11681"/>
+      <trkpt lat="46.1689" lon="4.117"/>
+      <trkpt lat="46.16882" lon="4.11719"/>
+      <trkpt lat="46.16915" lon="4.11779"/>
+      <trkpt lat="46.16964" lon="4.11879"/>
+      <trkpt lat="46.16912" lon="4.12017"/>
+      <trkpt lat="46.1687" lon="4.12141"/>
+      <trkpt lat="46.16868" lon="4.12158"/>
+      <trkpt lat="46.16879" lon="4.12258"/>
+      <trkpt lat="46.16883" lon="4.12357"/>
+      <trkpt lat="46.16889" lon="4.12424"/>
+      <trkpt lat="46.16901" lon="4.12484"/>
+      <trkpt lat="46.16923" lon="4.12566"/>
+      <trkpt lat="46.16935" lon="4.12637"/>
+      <trkpt lat="46.1694" lon="4.127"/>
+      <trkpt lat="46.16945" lon="4.12737"/>
+      <trkpt lat="46.1694" lon="4.12754"/>
+      <trkpt lat="46.16888" lon="4.12725"/>
+      <trkpt lat="46.16873" lon="4.12715"/>
+      <trkpt lat="46.16871" lon="4.12729"/>
+      <trkpt lat="46.16877" lon="4.12755"/>
+      <trkpt lat="46.16881" lon="4.1279"/>
+      <trkpt lat="46.16877" lon="4.12818"/>
+      <trkpt lat="46.16789" lon="4.12785"/>
+      <trkpt lat="46.16744" lon="4.12784"/>
+      <trkpt lat="46.16739" lon="4.12786"/>
+      <trkpt lat="46.16708" lon="4.12809"/>
+      <trkpt lat="46.16697" lon="4.12814"/>
+      <trkpt lat="46.16677" lon="4.12814"/>
+      <trkpt lat="46.16565" lon="4.12802"/>
+      <trkpt lat="46.1656" lon="4.128"/>
+      <trkpt lat="46.16552" lon="4.12792"/>
+      <trkpt lat="46.16545" lon="4.12776"/>
+      <trkpt lat="46.16539" lon="4.1277"/>
+      <trkpt lat="46.1652" lon="4.12758"/>
+      <trkpt lat="46.16493" lon="4.12749"/>
+      <trkpt lat="46.16432" lon="4.12716"/>
+      <trkpt lat="46.16385" lon="4.12706"/>
+      <trkpt lat="46.16381" lon="4.12691"/>
+      <trkpt lat="46.16342" lon="4.12693"/>
+      <trkpt lat="46.16308" lon="4.12698"/>
+      <trkpt lat="46.16253" lon="4.12703"/>
+      <trkpt lat="46.16233" lon="4.12704"/>
+      <trkpt lat="46.162" lon="4.12701"/>
+      <trkpt lat="46.16181" lon="4.12694"/>
+      <trkpt lat="46.16167" lon="4.12686"/>
+      <trkpt lat="46.16156" lon="4.12686"/>
+      <trkpt lat="46.16143" lon="4.12683"/>
+      <trkpt lat="46.16055" lon="4.12643"/>
+      <trkpt lat="46.1599" lon="4.12617"/>
+      <trkpt lat="46.15967" lon="4.12605"/>
+      <trkpt lat="46.1594" lon="4.12585"/>
+      <trkpt lat="46.15909" lon="4.12555"/>
+      <trkpt lat="46.1573" lon="4.12329"/>
+      <trkpt lat="46.15712" lon="4.12315"/>
+      <trkpt lat="46.15706" lon="4.12324"/>
+      <trkpt lat="46.15665" lon="4.12342"/>
+      <trkpt lat="46.15656" lon="4.12343"/>
+      <trkpt lat="46.15529" lon="4.12318"/>
+      <trkpt lat="46.15487" lon="4.12308"/>
+      <trkpt lat="46.15448" lon="4.12302"/>
+      <trkpt lat="46.15432" lon="4.12301"/>
+      <trkpt lat="46.15423" lon="4.12302"/>
+      <trkpt lat="46.15375" lon="4.12326"/>
+      <trkpt lat="46.15363" lon="4.1228"/>
+      <trkpt lat="46.15361" lon="4.12247"/>
+      <trkpt lat="46.15358" lon="4.12233"/>
+      <trkpt lat="46.15363" lon="4.12209"/>
+      <trkpt lat="46.15367" lon="4.12158"/>
+    </trkseg>
+  </trk>
+  <wpt lat="46.153632" lon="4.120596">
+    <name>111 Rue de la Republique, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;111 Rue de la Republique, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.153453" lon="4.120046">
+    <name>4 Route d'Iguerande, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;4 Route d'Iguerande, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.152672" lon="4.1195">
+    <name>107bis Route du Sornin, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;107bis Route du Sornin, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.152148" lon="4.119386">
+    <name>107bis Route du Sornin, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;107bis Route du Sornin, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.151789" lon="4.121707">
+    <name>210 Allée Vauvrille, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;210 All\u00e9e Vauvrille, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.151462" lon="4.124092">
+    <name>526 Rue de la Republique, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;526 Rue de la Republique, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.151132" lon="4.126423">
+    <name>93 Chemin des Grands Bois, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;93 Chemin des Grands Bois, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.150896" lon="4.128148">
+    <name>282 Route de Charlieu, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;282 Route de Charlieu, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.150684" lon="4.129662">
+    <name>282 Route de Charlieu, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;282 Route de Charlieu, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.150512" lon="4.130918">
+    <name>97 Impasse Pierrefaix, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;97 Impasse Pierrefaix, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.150451" lon="4.133185">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.150743" lon="4.134869">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.151029" lon="4.136301">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.151513" lon="4.138741">
+    <name>16 Impasse d'Avenas, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;16 Impasse d'Avenas, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.152014" lon="4.141184">
+    <name>49 Impasse du Creux, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;49 Impasse du Creux, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.152432" lon="4.142641">
+    <name>Impasse du Creux, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;Impasse du Creux, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.153368" lon="4.145603">
+    <name>1700 Route de Charlieu, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;1700 Route de Charlieu, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.153853" lon="4.14704">
+    <name>55 Chemin de Rongefer, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;55 Chemin de Rongefer, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.154172" lon="4.148079">
+    <name>131 Route du Mont, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;131 Route du Mont, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.154483" lon="4.149515">
+    <name>3 Route du Mont, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;3 Route du Mont, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.154731" lon="4.150762">
+    <name>50 Route du Mont, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;50 Route du Mont, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.16596" lon="4.136536">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.155367" lon="4.152227">
+    <name>2253bis Route de Charlieu, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;2253bis Route de Charlieu, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.156459" lon="4.151705">
+    <name>571 Chemin des Egats, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;571 Chemin des Egats, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.157458" lon="4.148934">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.160611" lon="4.14784">
+    <name>75 Impasse des Egats, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;75 Impasse des Egats, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.15968" lon="4.150108">
+    <name>149 Chemin des Egats, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;149 Chemin des Egats, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.159361" lon="4.153581">
+    <name>445 Chemin de la Grange du Bois, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;445 Chemin de la Grange du Bois, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.163477" lon="4.150924">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.161451" lon="4.149861">
+    <name>889 Chemin de la Grange du Bois, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;889 Chemin de la Grange du Bois, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.161971" lon="4.146792">
+    <name>1096 Chemin de la Grange du Bois, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;1096 Chemin de la Grange du Bois, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.16346" lon="4.143969">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.163934" lon="4.140252">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.170574" lon="4.143196">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.175569" lon="4.144718">
+    <name>Allée du Châtelet, Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;All\u00e9e du Ch\u00e2telet, Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.178635" lon="4.136495">
+    <name>71340</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;71340&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.180403" lon="4.133645">
+    <name>71340</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;71340&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.181903" lon="4.134771">
+    <name>260 Chemin du Bois du Rochet, Fleury-la-Montagne, 71340</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;260 Chemin du Bois du Rochet, Fleury-la-Montagne, 71340&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.182751" lon="4.133325">
+    <name>71340</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;71340&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.185507" lon="4.129888">
+    <name>71340</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;71340&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.187608" lon="4.126645">
+    <name>890 Route du Bas des Bruyeres, Fleury-la-Montagne, 71340</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;890 Route du Bas des Bruyeres, Fleury-la-Montagne, 71340&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.186444" lon="4.125333">
+    <name>974 Route des Bruyeres, Fleury-la-Montagne, 71340</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;974 Route des Bruyeres, Fleury-la-Montagne, 71340&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.18205" lon="4.123169">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.18055" lon="4.122318">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.178114" lon="4.120418">
+    <name>1943 Route de Charlieu, Saint-Pierre-la-Noaille, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;1943 Route de Charlieu, Saint-Pierre-la-Noaille, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.177107" lon="4.119914">
+    <name>1101 Route du Cluzet, Saint-Pierre-la-Noaille, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;1101 Route du Cluzet, Saint-Pierre-la-Noaille, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.176591" lon="4.116242">
+    <name>822 Route du Cluzet, Saint-Pierre-la-Noaille, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;822 Route du Cluzet, Saint-Pierre-la-Noaille, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.17505" lon="4.11437">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.169296" lon="4.113722">
+    <name>Chemin du Bois de Saint-pierre, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;Chemin du Bois de Saint-pierre, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.16842" lon="4.112998">
+    <name>Chemin du Bois de Saint-pierre, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;Chemin du Bois de Saint-pierre, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.168587" lon="4.115239">
+    <name>1293 Route du Chevrenay, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;1293 Route du Chevrenay, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.16897" lon="4.117457">
+    <name>1527 Route du Chevrenay, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;1527 Route du Chevrenay, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.169185" lon="4.125489">
+    <name>624 Chemin des Essets, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;624 Chemin des Essets, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.168712" lon="4.127285">
+    <name>2083 Route de Fleury, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;2083 Route de Fleury, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.168097" lon="4.127922">
+    <name>494 Chemin de Bois Plan, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;494 Chemin de Bois Plan, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.164791" lon="4.127421">
+    <name>53 Chemin de Bois Plan, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;53 Chemin de Bois Plan, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.163984" lon="4.127091">
+    <name>9 Chemin de Bois Plan, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;9 Chemin de Bois Plan, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.16199" lon="4.127003">
+    <name>1270 Chemin des Gatilles, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;1270 Chemin des Gatilles, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.159047" lon="4.125497">
+    <name>42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.154985" lon="4.123109">
+    <name>126 Chemin des Cours, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;126 Chemin des Cours, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.153605" lon="4.12218">
+    <name>199 Rue de la Republique, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;199 Rue de la Republique, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+  <wpt lat="46.153669" lon="4.121585">
+    <name>158 Rue de la Republique, Saint-Nizier-sous-Charlieu, 42190</name>
+    <sym>1</sym>
+    <type>WPT</type>
+    <extensions>
+      <option option="{&quot;icon&quot;: {&quot;id&quot;: &quot;1&quot;, &quot;i18n&quot;: &quot;Assistants de parcours&quot;, &quot;type&quot;: &quot;default&quot;, &quot;classes&quot;: null, &quot;categorie&quot;: &quot;CATICO-1&quot;, &quot;html_code&quot;: &quot;&amp;#x41&quot;, &quot;description&quot;: null, &quot;custom_order&quot;: 2, &quot;def_svg_symbol_id&quot;: &quot;41&quot;}, &quot;color&quot;: &quot;#26323d&quot;, &quot;title&quot;: &quot;158 Rue de la Republique, Saint-Nizier-sous-Charlieu, 42190&quot;, &quot;bgColor&quot;: &quot;#ffffff&quot;, &quot;content&quot;: &quot;&quot;, &quot;offsetX&quot;: 0, &quot;offsetY&quot;: 0, &quot;tooltip&quot;: {&quot;show&quot;: true, &quot;direction&quot;: &quot;right&quot;, &quot;permanent&quot;: false}, &quot;visibility&quot;: &quot;public&quot;, &quot;showOnPrint&quot;: true, &quot;showOnPrintMap&quot;: false, &quot;showOnElevation&quot;: false, &quot;cumulatedLocation&quot;: false, &quot;showOnPrintElevation&quot;: false, &quot;stickedDistanceInMeter&quot;: -1, &quot;showTextOnPrintElevation&quot;: false}"/>
+    </extensions>
+  </wpt>
+</gpx>
