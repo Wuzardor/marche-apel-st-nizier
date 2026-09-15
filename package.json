@@ -7,6 +7,7 @@
   "scripts": {
     "data": "node scripts/prepare-data.mjs",
     "build": "node build.mjs",
+    "qr-pdf": "python scripts/qr_pdf.py",
     "serve": "node scripts/serve.mjs",
     "test": "python tests/check_site.py"
   },

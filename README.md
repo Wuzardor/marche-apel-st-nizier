@@ -19,7 +19,7 @@ Tous les circuits partent du 111 rue de la République et y reviennent. La trace
 
 ## QR codes
 
-Le dossier [`qr-codes/`](qr-codes) contient les QR codes de l'accueil et de chaque circuit, en PNG (1200 px) et en SVG (vectoriel, idéal pour l'impression).
+Le dossier [`qr-codes/`](qr-codes) contient les QR codes de l'accueil et de chaque circuit, en PNG (1200 px) et en SVG (vectoriel). Le sous-dossier [`qr-codes/pdf/`](qr-codes/pdf) les propose mis en page sur une feuille A4 prête à imprimer (un PDF par QR code, et `qr-codes-tous.pdf` qui regroupe les 6 pages).
 
 Ce sont des QR codes **statiques** : l'adresse du site est inscrite dans l'image elle-même, sans service intermédiaire. Ils n'ont donc pas de date d'expiration et restent valables tant que le site est en ligne à la même adresse.
 
@@ -48,6 +48,7 @@ npm run data
 
 # 2. Après toute modification de config.json, content/ ou src/
 npm run build
+npm run qr-pdf   # QR codes en PDF A4 dans qr-codes/pdf/ (nécessite Python + Playwright)
 
 # 3. Prévisualiser sur http://localhost:4173, puis vérifier dans un autre terminal
 npm run serve
