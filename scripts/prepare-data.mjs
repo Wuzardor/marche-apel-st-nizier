@@ -97,13 +97,14 @@ const CIRCUITS = [
   },
   {
     id: 'vtt',
-    sourceFile: 'circuit-vtt-22-2km.gpx',
-    name: 'Circuit VTT 22,2 km',
+    sourceFile: 'circuit-vtt-22-4km.gpx',
+    name: 'Circuit VTT 22,4 km',
     shortLabel: 'VTT 22 km',
     activity: 'mtb',
     gpxType: 'mountain_biking',
-    expectedPoints: 542,
-    // The source loop starts ~2.4 km east but passes through the common start at km 2.81
+    expectedPoints: 526,
+    // Updated route (2026-09-15): the source loop starts ~70 m east of the common
+    // start and passes through it near the end, so it is re-started there
     startAt: COMMON_START,
   },
 ];
@@ -863,7 +864,7 @@ async function main() {
     '10km': 10,
     '14km': 14,
     '18km': 18,
-    vtt: 22.2,
+    vtt: 22.4,
   };
   for (const row of report.rows) {
     const expectedKm = nameKm[row.id];

@@ -13,9 +13,9 @@ Site des circuits de la marche solidaire organisée par l'APEL au profit de l'é
 | 10 km | [/10km](https://marche-des-ecoles-saint-nizerote.vercel.app/10km) | 10,2 km | 223 m |
 | 14 km | [/14km](https://marche-des-ecoles-saint-nizerote.vercel.app/14km) | 14,6 km | 257 m |
 | 18 km | [/18km](https://marche-des-ecoles-saint-nizerote.vercel.app/18km) | 18,4 km | 328 m |
-| VTT | [/vtt](https://marche-des-ecoles-saint-nizerote.vercel.app/vtt) | 22,2 km | 497 m |
+| VTT | [/vtt](https://marche-des-ecoles-saint-nizerote.vercel.app/vtt) | 22,5 km | 433 m |
 
-Tous les circuits partent du 111 rue de la République et y reviennent. La trace VTT d'origine démarrait à 2,4 km de là ; comme la boucle passait déjà par ce point, elle a seulement été redémarrée à cet endroit (même tracé, même sens).
+Tous les circuits partent du 111 rue de la République et y reviennent. La trace VTT fournie démarre à environ 70 m de là ; comme la boucle passe par ce point, elle y est simplement redémarrée (même tracé, même sens). Le tracé VTT a été modifié le 15/09/2026 (22,2 km → 22,4 km, tronçon nord-est redessiné).
 
 ## QR codes
 
