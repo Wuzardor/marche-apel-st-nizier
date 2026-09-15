@@ -29,9 +29,9 @@ window.MarcheMap = (function () {
     return map;
   }
 
-  // Tracé avec liseré blanc (lisible sur tous les fonds) + zone de clic élargie pour le doigt
-  function drawRoute(latlngs, color, weight) {
-    const casing = L.polyline(latlngs, { color: '#fff', weight: weight + 4, opacity: 0.95, lineJoin: 'round', lineCap: 'round', interactive: false });
+  // Tracé avec liseré (blanc, ou foncé pour une couleur claire) + zone de clic élargie pour le doigt
+  function drawRoute(latlngs, color, weight, casingColor) {
+    const casing = L.polyline(latlngs, { color: casingColor || '#fff', weight: weight + 4, opacity: 0.95, lineJoin: 'round', lineCap: 'round', interactive: false });
     const line = L.polyline(latlngs, { color: color, weight: weight, opacity: 1, lineJoin: 'round', lineCap: 'round', interactive: false });
     const hit = L.polyline(latlngs, { color: color, weight: 22, opacity: 0 });
     const group = L.featureGroup([casing, line, hit]);

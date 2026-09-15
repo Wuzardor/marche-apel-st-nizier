@@ -2,18 +2,18 @@
 
 Site des circuits de la marche solidaire organisée par l'APEL au profit de l'école : carte de chaque circuit, suivi de sa position sur téléphone et fichiers GPX à télécharger **sans compte ni application** (montre, compteur vélo, appli GPS).
 
-- Site : https://marche-apel-st-nizier.vercel.app
-- Affiche imprimable avec les QR codes : https://marche-apel-st-nizier.vercel.app/affiche
+- Site : https://marche-des-ecoles-saint-nizerote.vercel.app
+- Affiche imprimable avec les QR codes : https://marche-des-ecoles-saint-nizerote.vercel.app/affiche
 
 ## Les circuits
 
 | Circuit | Page | Distance | Dénivelé + |
 |---|---|---|---|
-| 5 km poussettes | [/5km](https://marche-apel-st-nizier.vercel.app/5km) | 5,0 km | 83 m |
-| 10 km | [/10km](https://marche-apel-st-nizier.vercel.app/10km) | 10,2 km | 223 m |
-| 14 km | [/14km](https://marche-apel-st-nizier.vercel.app/14km) | 14,6 km | 257 m |
-| 18 km | [/18km](https://marche-apel-st-nizier.vercel.app/18km) | 18,4 km | 328 m |
-| VTT | [/vtt](https://marche-apel-st-nizier.vercel.app/vtt) | 22,2 km | 497 m |
+| 5 km poussettes | [/5km](https://marche-des-ecoles-saint-nizerote.vercel.app/5km) | 5,0 km | 83 m |
+| 10 km | [/10km](https://marche-des-ecoles-saint-nizerote.vercel.app/10km) | 10,2 km | 223 m |
+| 14 km | [/14km](https://marche-des-ecoles-saint-nizerote.vercel.app/14km) | 14,6 km | 257 m |
+| 18 km | [/18km](https://marche-des-ecoles-saint-nizerote.vercel.app/18km) | 18,4 km | 328 m |
+| VTT | [/vtt](https://marche-des-ecoles-saint-nizerote.vercel.app/vtt) | 22,2 km | 497 m |
 
 Tous les circuits partent du 111 rue de la République et y reviennent. La trace VTT d'origine démarrait à 2,4 km de là ; comme la boucle passait déjà par ce point, elle a seulement été redémarrée à cet endroit (même tracé, même sens).
 
@@ -53,7 +53,7 @@ npm run build
 npm run serve
 python tests/check_site.py
 
-# 4. Publier (la première fois sur un nouvel ordinateur : vercel link --project marche-apel-st-nizier)
+# 4. Publier (la première fois sur un nouvel ordinateur : vercel link --project marche-des-ecoles-saint-nizerote)
 cd public
 vercel deploy --prod
 ```

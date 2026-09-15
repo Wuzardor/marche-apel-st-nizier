@@ -49,11 +49,26 @@ function duration(c) {
   return m ? `${h} h ${String(m).padStart(2, '0')}` : `${h} h`;
 }
 
+// ---------- Couleurs ----------
+// Une couleur claire (jaune, gris clair…) disparaît en trait fin sur fond clair : on en déduit
+// un texte lisible posé dessus (ink), une variante plus soutenue pour les traits fins (line)
+// et un liseré foncé autour du tracé sur la carte (casing).
+function palette(hex) {
+  const rgb = [1, 3, 5].map(i => parseInt(hex.slice(i, i + 2), 16));
+  const lin = rgb.map(v => { v /= 255; return v <= 0.04045 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4; });
+  const light = 0.2126 * lin[0] + 0.7152 * lin[1] + 0.0722 * lin[2] > 0.4;
+  const darker = '#' + rgb.map(v => Math.round(v * 0.7).toString(16).padStart(2, '0')).join('');
+  return light
+    ? { color: hex, ink: '#1D2528', line: darker, casing: '#27272A' }
+    : { color: hex, ink: '#FFFFFF', line: hex, casing: '#FFFFFF' };
+}
+const cssVars = c => `--c:${c.color};--c-ink:${c.ink};--c-line:${c.line};--c-casing:${c.casing}`;
+
 // ---------- Données ----------
 const circuits = data.circuits.map(c => {
   const meta = config.circuits[c.id];
   if (!meta) throw new Error(`config.json : aucune présentation pour le circuit « ${c.id} »`);
-  return { ...c, ...meta };
+  return { ...c, ...meta, ...palette(meta.color) };
 });
 
 // Même échelle verticale pour tous les mini-profils : on compare d'un coup d'œil le relief des circuits
@@ -181,7 +196,7 @@ function footer() {
 
 function card(c) {
   return `      <li>
-        <a class="circuit-card" href="/${c.id}" style="--c:${c.color}">
+        <a class="circuit-card" href="/${c.id}" style="${cssVars(c)}">
           <span class="cc-top"><span class="cc-label">${esc(c.label)}</span><span class="cc-kind">${esc(c.kind)}</span></span>
           ${c.subtitle ? `<span class="cc-sub">${esc(c.subtitle)}</span>` : ''}
           ${sparkline(c)}
@@ -194,7 +209,7 @@ function card(c) {
 // ---------- Accueil ----------
 const eventMeta = [ev.date, ev.time, ev.startPlace, ev.price].filter(Boolean);
 const homeData = {
-  circuits: circuits.map(c => ({ id: c.id, label: c.label, color: c.color, points: lighten(c.points) })),
+  circuits: circuits.map(c => ({ id: c.id, label: c.label, color: c.color, casing: c.casing, points: lighten(c.points) })),
   starts: starts.map(s => ({ latlng: s.latlng, label: s.loop ? 'Départ / arrivée' : 'Départ' }))
 };
 await put('index.html', page({
@@ -212,7 +227,7 @@ await put('index.html', page({
   <section class="overview" aria-label="Carte des circuits">
     <div class="chips" role="group" aria-label="Afficher un circuit sur la carte">
       <button type="button" class="chip" data-route="" aria-pressed="true">Tous</button>
-      ${circuits.map(c => `<button type="button" class="chip" data-route="${c.id}" aria-pressed="false" style="--c:${c.color}"><i></i>${esc(c.short)}</button>`).join('\n      ')}
+      ${circuits.map(c => `<button type="button" class="chip" data-route="${c.id}" aria-pressed="false" style="${cssVars(c)}"><i></i>${esc(c.short)}</button>`).join('\n      ')}
     </div>
     <div id="map-overview" class="map"></div>
   </section>
@@ -231,18 +246,18 @@ ${footer()}`,
 
 // ---------- Pages circuit ----------
 for (const c of circuits) {
-  const pointsData = { id: c.id, label: c.label, color: c.color, loop: c.loop, points: c.points };
+  const pointsData = { id: c.id, label: c.label, color: c.color, line: c.line, casing: c.casing, loop: c.loop, points: c.points };
   await put(`${c.id}.html`, page({
     title: `Circuit ${c.label} · ${ev.title}`,
     description: `Carte, suivi de position et fichier GPX du circuit ${c.label} (${fmtKm(c.distanceM)}, D+ ${fmtM(c.ascentM)}) à ${ev.town}.`,
     pagePath: `/${c.id}`,
-    bodyStyle: `--c:${c.color}`,
+    bodyStyle: cssVars(c),
     body: `
 <header class="topbar">
   <div class="wrap topbar-inner">
     <a class="back" href="/">${ICON.back}Tous les circuits</a>
     <nav class="topnav" aria-label="Changer de circuit">
-      ${circuits.map(o => `<a href="/${o.id}" style="--c:${o.color}"${o.id === c.id ? ' aria-current="page"' : ''}>${esc(o.short)}</a>`).join('')}
+      ${circuits.map(o => `<a href="/${o.id}" style="${cssVars(o)}"${o.id === c.id ? ' aria-current="page"' : ''}>${esc(o.short)}</a>`).join('')}
     </nav>
   </div>
 </header>
@@ -317,7 +332,7 @@ if (SITE_URL) {
   for (const c of circuits) {
     const url = `${SITE_URL}/${c.id}`;
     await saveQr(`qr-${c.id}`, url);
-    items.push(`<div class="poster-item" style="--c:${c.color}">
+    items.push(`<div class="poster-item" style="${cssVars(c)}">
       <div class="qr">${await qrSvg(url)}</div>
       <p class="pi-label">${esc(c.label)}</p>
       <p class="pi-stats">${esc(c.kind)} · D+ ${fmtM(c.ascentM)}</p>

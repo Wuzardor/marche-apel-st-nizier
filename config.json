@@ -1,5 +1,5 @@
 {
-  "siteUrl": "https://marche-apel-st-nizier.vercel.app",
+  "siteUrl": "https://marche-des-ecoles-saint-nizerote.vercel.app",
   "event": {
     "title": "Marche solidaire de l'école",
     "organizer": "APEL",
@@ -14,8 +14,8 @@
   "circuits": {
     "5km": { "label": "5 km", "short": "5 km", "kind": "Marche · poussettes", "subtitle": "Circuit adapté aux poussettes", "color": "#15803D", "speedKmh": 3.5, "climbMinPer100m": 10 },
     "10km": { "label": "10 km", "short": "10 km", "kind": "Marche", "subtitle": "", "color": "#1D4ED8", "speedKmh": 4.5, "climbMinPer100m": 10 },
-    "14km": { "label": "14 km", "short": "14 km", "kind": "Marche", "subtitle": "", "color": "#C2410C", "speedKmh": 4.5, "climbMinPer100m": 10 },
-    "18km": { "label": "18 km", "short": "18 km", "kind": "Marche", "subtitle": "", "color": "#BE185D", "speedKmh": 4.5, "climbMinPer100m": 10 },
-    "vtt": { "label": "VTT 22,2 km", "short": "VTT", "kind": "VTT", "subtitle": "", "color": "#6D28D9", "speedKmh": 12, "climbMinPer100m": 5 }
+    "14km": { "label": "14 km", "short": "14 km", "kind": "Marche", "subtitle": "", "color": "#FACC15", "speedKmh": 4.5, "climbMinPer100m": 10 },
+    "18km": { "label": "18 km", "short": "18 km", "kind": "Marche", "subtitle": "", "color": "#D4D4D8", "speedKmh": 4.5, "climbMinPer100m": 10 },
+    "vtt": { "label": "VTT 22,2 km", "short": "VTT", "kind": "VTT", "subtitle": "", "color": "#DC2626", "speedKmh": 12, "climbMinPer100m": 5 }
   }
 }

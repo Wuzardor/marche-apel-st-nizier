@@ -54,7 +54,7 @@ a { color: inherit; }
 .leaflet-tooltip-top.start-label::before { border-top-color: var(--ink); }
 .km-marker span {
   display: grid; place-items: center; width: 24px; height: 24px; border-radius: 50%;
-  background: #fff; border: 2.5px solid var(--c); color: var(--ink);
+  background: var(--c); border: 2px solid var(--c-casing); color: var(--c-ink);
   font: 800 11px/1 var(--font); box-shadow: 0 1px 4px rgba(0, 0, 0, .25);
 }
 .route-arrow span { display: block; width: 20px; height: 20px; transform: rotate(var(--r)); filter: drop-shadow(0 1px 2px rgba(0, 0, 0, .3)); }
@@ -77,9 +77,9 @@ a { color: inherit; }
   border: 1px solid var(--line); border-radius: 999px; background: var(--surface); color: var(--ink);
   font: 700 .9rem/1 var(--font); cursor: pointer;
 }
-.chip i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+.chip i { width: 11px; height: 11px; border-radius: 50%; background: var(--c); box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .2); }
 .chip[aria-pressed="true"] { border-color: var(--ink); background: var(--ink); color: #fff; }
-.chip[aria-pressed="true"] i { box-shadow: 0 0 0 2px #fff; }
+.chip[aria-pressed="true"] i { box-shadow: 0 0 0 2px #fff, inset 0 0 0 1px rgba(0, 0, 0, .2); }
 @media (max-width: 559px) {
   /* Tous les circuits visibles d'un coup, sans défilement horizontal */
   .chips { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
@@ -98,7 +98,7 @@ a { color: inherit; }
 .cc-label { font-size: 1.45rem; font-weight: 800; letter-spacing: -.02em; }
 .cc-kind { font-size: .78rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
 .cc-sub { display: block; margin: 2px 0 0; font-size: .92rem; color: var(--muted); }
-.spark { display: block; width: 100%; height: 40px; margin: 10px 0 8px; color: var(--c); }
+.spark { display: block; width: 100%; height: 40px; margin: 10px 0 8px; color: var(--c-line); }
 .cc-stats { display: flex; flex-wrap: wrap; gap: 4px 16px; margin: 0; padding: 0; list-style: none; font-size: .92rem; color: var(--muted); }
 .cc-stats b { color: var(--ink); font-variant-numeric: tabular-nums; }
 .cc-go { position: absolute; top: 50%; right: 14px; transform: translateY(-50%); color: var(--muted); }
@@ -122,12 +122,12 @@ a { color: inherit; }
 /* Mobile : les circuits sur leur propre ligne, en boutons de même largeur, tous visibles */
 .topnav { display: grid; flex-basis: 100%; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 6px; }
 .topnav a { padding: 7px 4px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: .85rem; font-weight: 700; text-align: center; white-space: nowrap; text-decoration: none; }
-.topnav a[aria-current="page"] { border-color: var(--c); background: var(--c); color: #fff; }
+.topnav a[aria-current="page"] { border-color: var(--c-line); background: var(--c); color: var(--c-ink); }
 
 .circuit-page { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; padding-block: 14px 32px; grid-template-areas: "title" "map" "actions" "details"; }
 .c-title { grid-area: title; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }
 .c-title h1 { margin: 0; font-size: clamp(1.6rem, 5.5vw, 2.2rem); font-weight: 800; letter-spacing: -.025em; }
-.c-title .dot { width: 14px; height: 14px; border-radius: 50%; background: var(--c); box-shadow: 0 0 0 3px #fff, 0 0 0 4px var(--line); }
+.c-title .dot { width: 14px; height: 14px; border-radius: 50%; background: var(--c); box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .2), 0 0 0 3px #fff, 0 0 0 4px var(--line); }
 .pill { padding: 4px 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font-size: .78rem; font-weight: 700; color: var(--muted); }
 .c-sub { flex-basis: 100%; margin: 0; color: var(--muted); }
 .map-wrap { grid-area: map; position: relative; }
@@ -146,7 +146,7 @@ a { color: inherit; }
 .profile-box text { font: 11px var(--font); fill: var(--muted); font-variant-numeric: tabular-nums; }
 .profile-box .pg { stroke: var(--line); stroke-width: 1; }
 .profile-box .hover line { stroke: var(--ink); stroke-width: 1; stroke-dasharray: 3 3; }
-.profile-box .hover circle { fill: var(--c); stroke: #fff; stroke-width: 2; }
+.profile-box .hover circle { fill: var(--c-line); stroke: #fff; stroke-width: 2; }
 .profile-box .hover rect { fill: var(--ink); }
 .profile-box .hover text { fill: #fff; font-weight: 700; }
 .profile-box .you line { stroke: var(--you); stroke-width: 2; }

@@ -12,7 +12,7 @@
   const ICON = {
     fit: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>',
     locate: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>',
-    arrow: '<svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" style="fill:var(--c)" stroke="#fff" stroke-width="2"/><path d="M10 5 14.5 13h-9z" fill="#fff"/></svg>'
+    arrow: '<svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" style="fill:var(--c);stroke:var(--c-casing)" stroke-width="2"/><path d="M10 5 14.5 13h-9z" style="fill:var(--c-ink)"/></svg>'
   };
 
   // État du suivi de position
@@ -23,7 +23,7 @@
   const map = MarcheMap.createMap('map');
   // Calque au-dessus des bornes kilométriques : position de la personne et repère du profil
   map.createPane('focus').style.zIndex = 640;
-  const route = MarcheMap.drawRoute(latlngs, C.color, 6).addTo(map);
+  const route = MarcheMap.drawRoute(latlngs, C.color, 6, C.casing).addTo(map);
   const fitRoute = () => map.fitBounds(route.getBounds(), { padding: [28, 28] });
   fitRoute();
   MarcheMap.labelMarker(latlngs[0], C.loop ? 'Départ / arrivée' : 'Départ').addTo(map);
@@ -138,7 +138,7 @@
     let W = 0, svg = null, youAt = null;
     const X = d => padL + (d / total) * (W - padL - padR);
     const Y = e => padT + (1 - (e - lo) / (hi - lo)) * (H - padT - padB);
-    const hoverMarker = L.circleMarker([0, 0], { pane: 'focus', radius: 7, color: '#fff', weight: 3, fillColor: C.color, fillOpacity: 1, interactive: false });
+    const hoverMarker = L.circleMarker([0, 0], { pane: 'focus', radius: 7, color: C.casing, weight: 3, fillColor: C.color, fillOpacity: 1, interactive: false });
 
     function draw() {
       const w = Math.round(host.clientWidth);
@@ -164,8 +164,8 @@
       host.innerHTML =
         '<svg width="' + W + '" height="' + H + '" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Profil altimétrique : altitude de ' + Math.round(eMin) + ' à ' + Math.round(eMax) + ' mètres">' +
         '<g>' + grid + '</g>' +
-        '<path d="' + area + '" fill="' + C.color + '" fill-opacity="0.14"/>' +
-        '<path d="' + line + '" fill="none" stroke="' + C.color + '" stroke-width="2" stroke-linejoin="round"/>' +
+        '<path d="' + area + '" fill="' + C.line + '" fill-opacity="0.14"/>' +
+        '<path d="' + line + '" fill="none" stroke="' + C.line + '" stroke-width="2" stroke-linejoin="round"/>' +
         '<g class="you" style="display:none"><line y1="' + padT + '" y2="' + base + '"/><circle r="5"/></g>' +
         '<g class="hover" style="display:none"><line y1="' + padT + '" y2="' + base + '"/><circle r="4.5"/><rect rx="6" y="4" height="22"/><text y="19" text-anchor="middle"></text></g>' +
         '</svg>';

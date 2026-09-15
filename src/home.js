@@ -10,7 +10,7 @@
   // Les circuits longs d'abord : les plus courts restent visibles par-dessus
   const drawOrder = D.circuits.slice().reverse();
   drawOrder.forEach(function (c) {
-    const g = MarcheMap.drawRoute(c.points, c.color, 4).addTo(all);
+    const g = MarcheMap.drawRoute(c.points, c.color, 4, c.casing).addTo(all);
     g.hit.bindPopup('<strong>Circuit ' + c.label + '</strong><br><a href="/' + c.id + '">Voir le circuit →</a>');
     routes[c.id] = g;
   });
