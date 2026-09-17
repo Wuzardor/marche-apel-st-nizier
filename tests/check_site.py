@@ -37,7 +37,17 @@ def dist_to_route(lat, lon, points):
 
 
 def watch_errors(page, bucket):
-    page.on("console", lambda m: bucket.append(f"console: {m.text}") if m.type == "error" else None)
+    # Le script de mesure d'audience peut manquer (local, ou mesure désactivée) : ce n'est pas une erreur du site.
+    # L'adresse fautive est dans m.location, pas dans m.text.
+    def on_console(m):
+        if m.type != "error":
+            return
+        url = (m.location or {}).get("url", "")
+        if "_vercel/insights" in url or "_vercel/insights" in m.text:
+            return
+        bucket.append(f"console: {m.text} ({url})")
+
+    page.on("console", on_console)
     page.on("pageerror", lambda e: bucket.append(f"pageerror: {e}"))
 
 

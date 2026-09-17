@@ -143,6 +143,9 @@ const ICON = {
   back: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 5-7 7 7 7"/></svg>',
   chevron: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 5 7 7-7 7"/></svg>'
 };
+// Mesure d'audience Vercel (sans cookie) : chargée uniquement en ligne, pas en prévisualisation locale
+const ANALYTICS = `<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments)};
+if(!['localhost','127.0.0.1'].includes(location.hostname)){var s=document.createElement('script');s.defer=true;s.src='/_vercel/insights/script.js';document.head.appendChild(s)}</script>`;
 const FAVICON = 'data:image/svg+xml,' + encodeURIComponent("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥾</text></svg>");
 const orgLine = [ev.organizer, ev.town].filter(Boolean).join(' · ');
 
@@ -166,6 +169,7 @@ ${leaflet ? '<link rel="stylesheet" href="/vendor/leaflet/leaflet.css">\n' : ''}
 <body${bodyClass ? ` class="${bodyClass}"` : ''}${bodyStyle ? ` style="${bodyStyle}"` : ''}>
 ${body}
 ${leaflet ? `<script src="/vendor/leaflet/leaflet.js"></script>\n<script src="${asset['map.js']}"></script>\n` : ''}${scripts}
+${ANALYTICS}
 </body>
 </html>
 `;
@@ -190,6 +194,7 @@ function footer() {
   <div class="wrap">
     <p>${esc(orgLine)}${ev.contact ? ` · Contact : ${esc(ev.contact)}` : ''}</p>
     <p>Fonds de carte © contributeurs OpenStreetMap, © IGN · Altitudes : ${esc(data.elevationSource || 'IGN')} · Durées indicatives, hors pauses.</p>
+    <p>Mesure d'audience anonyme, sans cookie ni traçage publicitaire.</p>
   </div>
 </footer>`;
 }
